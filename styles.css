@@ -1,0 +1,6 @@
+body{
+    background-color: grey;
+}
+p,h1,h2,h3,h4,a,ol,ul,li,{
+    color:black;
+}
